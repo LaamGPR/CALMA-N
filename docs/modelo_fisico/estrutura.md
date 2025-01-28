@@ -1,4 +1,4 @@
-# Modelo Físco do CALMA-N
+# Modelo 3D do CALMA-N
 
 O desenvolvimento do modelo 3D da estrutura do robô foi realizado utilizando o software Autodesk Fusion. A estrutura é subdividida em níveis que são responsáveis por comportar os periféricos, descritos como: Estrutura de Base, Suporte da Eletrônica e Suporte do LIDAR.
 
@@ -27,9 +27,8 @@ Como o próprio nome indica, o suporte do LIDAR é a parte superior do robô, cu
 ![image](https://github.com/user-attachments/assets/5b9a237e-7b81-4a94-b5c5-a94202b3d5a2)
 
 
-Com a união dessas partes, forma-se o modelo completo da estrutura do robô, desenvolvido como a idealização de uma plataforma de pesquisa robótica para integrar os sensores e periféricos ao sistema ROS2, a ser utilizada nas atividades do Grupo de Pesquisa em Robótica da UFS (GPR-UFS). As partes da estrutura são acopladas por meio de barras roscadas, garantindo estabilidade e firmeza. Isso pode ser visualizado na imagem a seguir e no link que destina ao modelo 3D do robô. 
+Com a união dessas partes, forma-se o modelo completo da estrutura do robô, desenvolvido como a idealização de uma plataforma de pesquisa robótica para integrar os sensores e periféricos ao sistema ROS2, a ser utilizada nas atividades do Grupo de Pesquisa em Robótica da UFS (GPR-UFS). As partes da estrutura são acopladas por meio de barras roscadas, garantindo estabilidade e firmeza. Isso pode ser visualizado na imagem a seguir. 
 
-![image](https://github.com/user-attachments/assets/6470727b-b384-4bb1-bb8f-baaa3cde090c)
-
+![calmanrend2](https://github.com/user-attachments/assets/dd564e04-4f02-44bf-9b13-45b1033e7699)
 
 
