@@ -1,4 +1,4 @@
-##Sistema do robô 
+## Sistema do robô 
 
 O protótipo de robô móvel foi desenvolvido para atender às necessidades de atualização de um sistema prévio que utilizava o padrão de comunicação por rádio com uma placa de controle baseada no microcontrolador STM32 _Bluepill_ e no rádio NRF24. Esse sistema exigia uma comunicação serial entre o MATLAB e uma placa de circuito com o STM32 e rádio, exclusivamente para o envio de comandos de velocidade e a leitura de medições dos encoders, além de realizar estimativas de posição pela visão em terceira pessoa.
 
